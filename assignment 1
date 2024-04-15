@@ -1,0 +1,6 @@
+#taking x & y as variables 
+x=5
+y=10
+x,y = y,x
+print("the value of x after swapping", x)
+print("the value of x after swapping". y)
